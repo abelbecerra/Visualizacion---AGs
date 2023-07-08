@@ -1,0 +1,14 @@
+h1, h2 {
+  font-family: Lato;
+}
+.negrita{
+  font-weight: bold;
+}
+
+.justificado {
+  text-align: justify;
+}
+
+.subrayado {
+  text-decoration: underline;
+}
